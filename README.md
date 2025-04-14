@@ -241,9 +241,9 @@ Abre [http://localhost:3000](http://localhost:3000) con tu navegador para ver el
    git add .
    git commit -m "Implementación completa del dashboard de administración y mejoras de UI"
    ```
-3. Crea el repositorio en GitHub y sigue las instrucciones para añadir el remoto y hacer push:
+3. Añade el remoto de GitHub y sube el código:
    ```bash
-   git remote add origin https://github.com/usuario/neurowitch-app.git
+   git remote add origin https://github.com/Urdin-WCC/neurowitch.git
    git branch -M main
    git push -u origin main
    ```
